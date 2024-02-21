@@ -38,4 +38,4 @@ This project is licensed under the MIT License. See the [LICENSE](LICENSE) file 
 
 ---
 
-*This project is a simple implementation of the Flappy Bird game for educational purposes. It is not affiliated with or endorsed by the original creators of Flappy Bird.*=
+*This project is a simple implementation of the Flappy Bird game for educational purposes. It is not affiliated with or endorsed by the original creators of Flappy Bird.*
