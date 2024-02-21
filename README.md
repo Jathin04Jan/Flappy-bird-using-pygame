@@ -7,7 +7,7 @@ This is a simple implementation of the classic game "Flappy Bird" using Python a
 1. Clone or download the repository to your local machine.
 2. Ensure you have Python installed. If not, download and install it from the [official Python website](https://www.python.org/downloads/).
 3. Install the required packages by running `pip install pygame`.
-4. Run the game by executing `python flappy_bird.py`.
+4. Run the game by executing `python game.py`.
 
 ## How to Play
 
